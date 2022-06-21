@@ -1,0 +1,14 @@
+content:
+- Jumps and returns
+- Hierarchy of exceptions
+- Taming exceptions
+- Nullable and non-nullable types
+- Null safety
+- The try-catch statement
+- Type system
+- The try-catch-finally statement
+- Member functions
+- Scopes
+- Inheritance
+- toString()
+- Data class

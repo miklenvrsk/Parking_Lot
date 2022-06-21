@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Parking Lot/task" />
+            <option value="$PROJECT_DIR$/Parking Lot/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Parking Lot/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Parking Lot/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Parking Lot/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Generated functions" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data class/copy() usage" />
+            <option value="$PROJECT_DIR$/Topics/Data class/equals() check" />
+            <option value="$PROJECT_DIR$/Topics/Data class/toString() modification" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Fix the code" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/RuntimeException" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Cart" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/House inheritance" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Beyond the word" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/First digit" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Getting letters from the Alphabet" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Jumping out" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Unique characters" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Whole truth about continue" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Application as a class" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Car" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Keyword to declare a member function" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Operations" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Patient needs a doctor" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Volume of a cube" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Check length" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Elvis throwing exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Fake operator" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Operator name" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Safe round" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/The  !!  operator" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Assign null" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Declare null" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Line length" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Mixed nullable" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Nullable variables" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/String nullable" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Cyclist" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/If" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Non-overlapping scopes" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Open chest in Hogwarts" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Power and scopes" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Unlucky one" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/What is the scope" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Handle arithmetic exception" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Too big for us" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Converter to Double" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Correct code" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Correct statements" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Exception message" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Handling strings" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Integer division" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Braking distance" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Choose the correct option" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Complex handling" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Finalizing" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Parting words" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/The Answer is" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/The finally block" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Using as expressions" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Reverse me if you can" />
+            <option value="$PROJECT_DIR$/Topics/Type system/String or Int" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Espresso" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Function name" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Inheritance" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Latte" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Mochaccino" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Number of cups" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Tea" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/User Information" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
